@@ -1,0 +1,3 @@
+# Avoid uploading large files 
+data/
+*.ftr
